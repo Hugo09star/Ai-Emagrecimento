@@ -10,3 +10,8 @@
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
+export default defineConfig({
+  resolve: {
+    extensions: ['.js', '.ts', '.jsx', '.tsx'],
+  },
+});
