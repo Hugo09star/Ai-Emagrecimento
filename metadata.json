@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Plano Equilíbrio",
+  "description": "Uma aplicação para gerar planos de refeições e treinos personalizados para emagrecimento, utilizando a IA da Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
